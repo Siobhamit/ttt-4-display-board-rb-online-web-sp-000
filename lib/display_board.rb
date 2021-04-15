@@ -1,7 +1,7 @@
 # Define display_board that accepts a board and prints
 #bo out the current state.
 
-board = [" "," "," "," "," "," "," "," "," "]
+
 
 
 def display_board
