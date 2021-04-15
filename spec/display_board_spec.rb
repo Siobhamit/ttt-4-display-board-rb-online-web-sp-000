@@ -188,7 +188,7 @@ describe "#display_board in 'lib/display_board.rb" do
   expect(rows[4]).to eq(" o | o | o ")
 
 
-  
+
       # Hint: You should be able to copy the code in the previous it example
       # and make a few simple edits to convert the previous example to this
       # example's situation.
